@@ -27,8 +27,9 @@ printf("%c\n",front->data);
 ```
 
 ## Output:
+![Screenshot 2025-05-16 211941](https://github.com/user-attachments/assets/252d3c48-1fd7-471e-8c05-48b0e96013bd)
 
-![image](https://github.com/user-attachments/assets/dc584418-2dd5-4df1-82da-c8b638283df0)
+
 
 
 ## Result:
