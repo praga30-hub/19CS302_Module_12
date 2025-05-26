@@ -1,7 +1,6 @@
 # EX 56 C function to display stack elements using Linked List.(store integer data in stack) .
 ## AIM:
 To write a C function to display stack elements using Linked List.
-
 ## Algorithm
 1. Start.
 2. Define a variables.
