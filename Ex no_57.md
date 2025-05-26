@@ -19,7 +19,7 @@ struct Node
 int data;  
 struct Node *next;  
 }*head;
-void push(int data)  
+void push(int data)   
 { 
     struct Node*n=(struct Node*)malloc(sizeof(struct Node));
     if(head==NULL)
@@ -62,7 +62,7 @@ void display()
     while(temp!=NULL)
     {
         printf("%d ",temp->data);
-        temp=temp->next;
+        temp=temp->next; 
     }
     
 }  
